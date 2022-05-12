@@ -121,5 +121,5 @@ class ScottishHillIT {
 
     }
 
-    // TODO: add more tests
+    // add more tests
 }
