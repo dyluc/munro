@@ -12,6 +12,7 @@ import org.springframework.http.MediaType;
 import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.MvcResult;
 
+import static org.assertj.core.api.Assertions.assertThat;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
@@ -77,6 +78,46 @@ public class ScottishHillIT {
         JsonNode expectedJson = objectMapper.readTree(new ClassPathResource("all_muns_within_range_sorted_limited.json").getFile());
         JsonNode actualJson = objectMapper.readTree(json);
         assertEquals(expectedJson, actualJson);
+
+    }
+
+    @Test
+    @DisplayName("Should return 400 with invalid parameter")
+    public void shouldReturn400WithInvalidParam() throws Exception {
+
+        MvcResult mvcResult = mockMvc.perform(
+                        get("/api/v1/hills?category=MUN&hello=world&find=all")
+                                .contentType(MediaType.APPLICATION_JSON_VALUE))
+                .andExpect(status().isBadRequest())
+                .andReturn();
+
+        String json = mvcResult.getResponse().getContentAsString();
+        JsonNode jsonNode = objectMapper.readTree(json);
+
+        // just check specific values, criteria: non-strict array ordering (can be extensible)
+        assertEquals("Invalid parameters: [hello, find]", jsonNode.get("message").asText());
+        assertEquals("java.lang.IllegalArgumentException", jsonNode.get("type").asText());
+        assertThat(jsonNode.get("timestamp").asText()).isNotEmpty(); // includes null check
+
+    }
+
+    @Test
+    @DisplayName("Should return 400 with invalid parameter type")
+    public void shouldReturn400WithInvalidParamType() throws Exception {
+
+        MvcResult mvcResult = mockMvc.perform(
+                        get("/api/v1/hills?category=MUN&min_height=hello3.14")
+                                .contentType(MediaType.APPLICATION_JSON_VALUE))
+                .andExpect(status().isBadRequest())
+                .andReturn();
+
+        String json = mvcResult.getResponse().getContentAsString();
+        JsonNode jsonNode = objectMapper.readTree(json);
+
+        // just check specific values, criteria: non-strict array ordering (can be extensible)
+        assertEquals("Invalid float parameter value: hello3.14", jsonNode.get("message").asText());
+        assertEquals("java.lang.IllegalArgumentException", jsonNode.get("type").asText());
+        assertThat(jsonNode.get("timestamp").asText()).isNotEmpty(); // includes null check
 
     }
 

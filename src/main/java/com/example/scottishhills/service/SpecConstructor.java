@@ -3,6 +3,7 @@ package com.example.scottishhills.service;
 import com.example.scottishhills.dao.spec.ScottishHillSpecification;
 import com.example.scottishhills.dao.spec.SearchCriteria;
 import com.example.scottishhills.dao.spec.SearchOperator;
+
 import java.util.Map;
 
 import static com.example.scottishhills.service.FilteredRequest.SearchParam;
