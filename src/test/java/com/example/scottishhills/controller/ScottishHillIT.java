@@ -19,7 +19,7 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 
 @AutoConfigureMockMvc
 @SpringBootTest
-public class ScottishHillIT {
+class ScottishHillIT {
 
     private final MockMvc mockMvc;
     private final ObjectMapper objectMapper;
@@ -32,7 +32,7 @@ public class ScottishHillIT {
 
     @Test
     @DisplayName("Should get all hills")
-    public void shouldGetAllHills() throws Exception {
+    void shouldGetAllHills() throws Exception {
 
         MvcResult mvcResult =
                 mockMvc.perform(
@@ -50,7 +50,7 @@ public class ScottishHillIT {
 
     @Test
     @DisplayName("Should get all Tops")
-    public void shouldGetAllTops() throws Exception {
+    void shouldGetAllTops() throws Exception {
 
         MvcResult mvcResult = mockMvc.perform(
                         get("/api/v1/hills?category=TOP")
@@ -66,7 +66,7 @@ public class ScottishHillIT {
 
     @Test
     @DisplayName("Should get all Munros within height range, sorted by height,name limit 20")
-    public void shouldGetAllMunsWithinRangeSortedAndLimited() throws Exception {
+    void shouldGetAllMunsWithinRangeSortedAndLimited() throws Exception {
 
         MvcResult mvcResult = mockMvc.perform(
                         get("/api/v1/hills?category=MUN&min_height=952.4&max_height=970&sort=height,name&limit=20")
@@ -83,7 +83,7 @@ public class ScottishHillIT {
 
     @Test
     @DisplayName("Should return 400 with invalid parameter")
-    public void shouldReturn400WithInvalidParam() throws Exception {
+    void shouldReturn400WithInvalidParam() throws Exception {
 
         MvcResult mvcResult = mockMvc.perform(
                         get("/api/v1/hills?category=MUN&hello=world&find=all")
@@ -103,7 +103,7 @@ public class ScottishHillIT {
 
     @Test
     @DisplayName("Should return 400 with invalid parameter type")
-    public void shouldReturn400WithInvalidParamType() throws Exception {
+    void shouldReturn400WithInvalidParamType() throws Exception {
 
         MvcResult mvcResult = mockMvc.perform(
                         get("/api/v1/hills?category=MUN&min_height=hello3.14")

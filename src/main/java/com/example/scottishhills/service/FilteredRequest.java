@@ -3,6 +3,7 @@ package com.example.scottishhills.service;
 import lombok.Getter;
 import org.springframework.data.domain.Sort;
 
+import java.util.EnumMap;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -19,7 +20,7 @@ public class FilteredRequest {
 
     public FilteredRequest(Map<String, String> params, Sort sort) {
 
-        searchParams = new HashMap<>();
+        searchParams = new EnumMap<>(SearchParam.class);
         populateSearchParams(params);
 
         // aggregate functions

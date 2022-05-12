@@ -12,11 +12,11 @@ import java.util.Map;
 public class ControllerExceptionHandler {
 
     @ExceptionHandler(IllegalArgumentException.class)
-    public ResponseEntity<?> handleBadRequest(IllegalArgumentException e) {
+    public ResponseEntity<Map<String, Object>> handleBadRequest(IllegalArgumentException e) {
         return constructResponseEntity(e, HttpStatus.BAD_REQUEST);
     }
 
-    private ResponseEntity<?> constructResponseEntity(Exception e, HttpStatus status) {
+    private ResponseEntity<Map<String, Object>> constructResponseEntity(Exception e, HttpStatus status) {
 
         Map<String, Object> body = Map.of(
                 "timestamp", ZonedDateTime.now().toString(), // server local default zone id

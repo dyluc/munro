@@ -8,7 +8,9 @@ import java.util.Map;
 
 import static com.example.scottishhills.service.FilteredRequest.SearchParam;
 
-public class SpecConstructor {
+public final class SpecConstructor {
+
+    private SpecConstructor() {}
 
     /**
      * Constructs a {@link ScottishHillSpecification} from the given search parameters.
