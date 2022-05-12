@@ -1,0 +1,604 @@
+id,name,height,category
+1,Ben Chonzie,931,MUN
+2,Ben Vorlich,985.3,MUN
+3,Stuc a' Chroin,973,MUN
+4,Ben Lomond,973.7,MUN
+5,Ben More,1174,MUN
+6,Stob Binnein,1165,MUN
+7,Stob Binnein - Stob Coire an Lochain,1068,TOP
+8,Stob Binnein - Creag a' Bhragit,923,
+9,Stob Binnein - Meall na Dige,966,TOP
+10,Cruach Ardrain,1045.9,MUN
+11,Cruach Ardrain SW Top,1044.9,
+12,Cruach Ardrain - Stob Garbh SE Top,923.5,
+13,Cruach Ardrain - Stob Garbh,957.7,TOP
+14,An Caisteal,995.9,MUN
+15,Beinn Tulaichean,945.8,MUN
+16,Beinn a' Chroin,941.4,MUN
+17,Beinn a' Chroin East Top,940.1,TOP
+18,Beinn a' Chroin West Top,937.9,
+19,Beinn Chabhair,932.2,MUN
+20,Ben Lui [Beinn Laoigh],1131.4,MUN
+21,Ben Lui NW Top,1127,
+22,Ben Oss,1029,MUN
+23,Beinn Dubhchraig,978,MUN
+24,Beinn a' Chleibh,916.3,MUN
+25,Ben Vorlich,943,MUN
+26,Ben Vorlich North Top,931,TOP
+27,Beinn Ime,1012.2,MUN
+28,Ben Vane,915.76,MUN
+29,Beinn Narnain,927,MUN
+30,Beinn an Lochain,901.7,
+31,Beinn Bhuidhe,948.5,MUN
+32,Schiehallion,1083,MUN
+33,Carn Mairg,1042,MUN
+34,Carn Mairg - Meall Liath,1012,TOP
+35,Carn Mairg - Meall a' Bharr,1004,TOP
+36,Carn Gorm,1029,MUN
+37,Meall Garbh East Top,963.7,
+38,Meall Garbh,968,MUN
+39,Meall Garbh - Meall Luaidhe,921.1,
+40,Carn Gorm - An Sgorr,924,TOP
+41,Meall na Aighean,981,MUN
+42,Stuc an Lochain [Stuchd an Lochain],960,MUN
+43,Stuc an Lochain - Sron Chona Choirein,927,TOP
+44,Meall Buidhe,932.1,MUN
+45,Meall Buidhe SE Top,917,
+46,Beinn Dorain,1076,MUN
+47,Beinn an Dothaidh,1004,MUN
+48,Beinn Achaladair,1038.6,MUN
+49,Beinn Achaladair South Top,1003.6,TOP
+50,Beinn a' Chreachain,1080.6,MUN
+51,Beinn a' Chreachain - Meall Buidhe,977.2,TOP
+52,Beinn a' Chreachain North Top,959.9,
+53,Beinn Mhanach,953,MUN
+54,Beinn Mhanach - Beinn a' Chuirn,923,TOP
+55,Ben Lawers,1214,MUN
+56,An Stuc,1117.1,MUN
+57,Ben Lawers - Creag an Fhithich,1047,TOP
+58,Meall Garbh,1123.1,MUN
+59,Meall Greigh,1001,MUN
+60,Beinn Ghlas,1103,MUN
+61,Meall Corranaich,1069,MUN
+62,Meall Corranaich - Sron Dha Mhurchaidh,935,
+63,Meall a' Choire Leith,925.6,MUN
+64,Meall nan Tarmachan,1043.6,MUN
+65,Meall nan Tarmachan - Meall Garbh,1026.7,TOP
+66,Meall nan Tarmachan - Beinn nan Eachan,1000.1,TOP
+67,Meall nan Tarmachan - Beinn nan Eachan East Top,951.4,
+68,Meall nan Tarmachan SE Top,921.6,TOP
+69,Meall nan Tarmachan - Creag na Caillich,914.3,
+70,Meall Ghaordaidh,1039.8,MUN
+71,Beinn Sheasgarnaich [Beinn Heasgarnich],1077.4,MUN
+72,Beinn Sheasgarnaich - Stob an Fhir-Bhogha,1029,
+73,Creag Mhor,1046.8,MUN
+74,Creag Mhor - Stob nan Clach,956.5,TOP
+75,Beinn Challuim [Ben Challum],1025,MUN
+76,Beinn Challuim South Top [Ben Challum South Top],998,TOP
+77,Meall Glas,959,MUN
+78,Meall Glas - Beinn Cheathaich,937,TOP
+79,Sgiath Chuil,920.1,MUN
+80,Sgiath Chuil - Meall a' Churain,917.3,TOP
+81,Sgorr nam Fiannaidh (Aonach Eagach),967.7,MUN
+82,Sgorr nam Fiannaidh (Aonach Eagach) - Stob Coire Leith,939.5,TOP
+83,Meall Dearg (Aonach Eagach),952.3,MUN
+84,Meall Dearg (Aonach Eagach) - Am Bodach,941.9,TOP
+85,Stob Dearg (Buachaille Etive Mor),1021.4,MUN
+86,Stob Dearg (Buachaille Etive Mor) - Stob na Doire,1010.5,TOP
+87,Stob na Broige (Buachaille Etive Mor),953.4,MUN
+88,Stob na Broige (Buachaille Etive Mor) - Stob Coire Altruim,938.8,TOP
+89,Stob Dubh (Buachaille Etive Beag),958,MUN
+90,Stob Coire Raineach (Buachaille Etive Beag) ,924.5,MUN
+91,Bidean nam Bian,1149.4,MUN
+92,Bidean nam Bian - Stob Coire nan Lochan,1115.6,TOP
+93,Bidean nam Bian - Stob Coire nam Beith,1106.9,TOP
+94,Stob Coire Sgreamhach,1072,MUN
+95,Stob Coire Sgreamhach - Beinn Fhada,952,TOP
+96,Stob Coire Sgreamhach - Beinn Fhada NE Top,931,TOP
+97,Sgorr Dhearg (Beinn a' Bheithir),1024,MUN
+98,Sgorr Dhonuill (Beinn a' Bheithir),1001,MUN
+99,Sgorr Dhearg (Beinn a' Bheithir) - Sgorr Bhan,947,TOP
+100,Sgurr na h-Ulaidh [Sgor na h-Ulaidh],994,MUN
+101,Sgurr na h-Ulaidh - Stob an Fhuarain,968,TOP
+102,Beinn Fhionnlaidh,959,MUN
+103,Beinn Sgulaird,937,MUN
+104,Ben Cruachan,1127,MUN
+105,Ben Cruachan - Stob Dearg [Taynuilt Peak],1103.1,TOP
+106,Ben Cruachan - Drochaid Ghlas,1024.4,TOP
+107,Ben Cruachan - Meall Cuanail,920.2,TOP
+108,Stob Daimh [Stob Diamh],999.2,MUN
+109,Stob Daimh - Stob Garbh,981.7,TOP
+110,Stob Daimh - Sron An Isean,966.6,TOP
+111,Beinn Eunaich,989,MUN
+112,Beinn a' Chochuill,980,MUN
+113,Beinn nan Aighenan,960,MUN
+114,Ben Starav,1079.5,MUN
+115,Ben Starav - Stob Coire Dheirg,1027.7,TOP
+116,Ben Starav - Stob Coire Dheirg (1984-1990 position),1068,
+117,Ben Starav - Meall Cruidh,930,TOP
+118,Ben Starav - Stob an Duine Ruaidh,918,TOP
+119,Glas Bheinn Mhor,997.7,MUN
+120,Stob Coir' an Albannaich,1044,MUN
+121,Meall nan Eun,928,MUN
+122,Stob Ghabhar,1090,MUN
+123,Stob Ghabhar - Aonach Eagach,1000,
+124,Stob Ghabhar - Sron a' Ghearrain,990,TOP
+125,Stob Ghabhar - Sron nan Giubhas,976,
+126,Stob Ghabhar - Stob a' Bhruaich Leith,941,TOP
+127,Stob a' Choire Odhair,945,MUN
+128,Creise,1099.8,MUN
+129,Creise - Mam Coire Easain,1070,
+130,Creise - Clach Leathad,1099,TOP
+131,Creise - Stob a' Ghlais Choire,995.6,TOP
+132,Meall a' Bhuiridh,1107.9,MUN
+133,Ben Nevis,1344.53,MUN
+134,Ben Nevis - Carn Dearg (NW),1221,TOP
+135,Ben Nevis - Carn Dearg (NW) (old GR),1214,
+136,Ben Nevis - Carn Dearg (SW),1020,TOP
+137,Aonach Beag,1234,MUN
+138,Aonach Beag - Stob Coire Bhealaich,1101,TOP
+139,Aonach Beag - Sgurr a' Bhuic,963,TOP
+140,Aonach Mor,1220.4,MUN
+141,Aonach Mor - Stob an Chul-Choire [Stob an Cul Choire],1070.1,TOP
+142,Aonach Mor - Stob Coire an Fhir Dhuibh,986,
+143,Aonach Mor - Tom na Sroine,918.7,TOP
+144,Carn Mor Dearg,1220,MUN
+145,Carn Mor Dearg - Carn Dearg Meadhonach,1179,TOP
+146,Carn Mor Dearg - Carn Beag Dearg,1010,
+147,Sgurr Choinnich Mor,1094,MUN
+148,Sgurr Choinnich Mor - Sgurr Choinnich Beag,963,TOP
+149,Stob Coire an Laoigh,1116,MUN
+150,Stob Coire an Laoigh - Caisteal,1106,TOP
+151,Stob Coire an Laoigh - Stob Coire Easain,1080,TOP
+152,Stob Coire an Laoigh - Stob Coire Cath na Sine,1082.4,TOP
+153,Stob Coire an Laoigh - Beinn na Socaich,1007,TOP
+154,Stob Choire Claurigh,1177,MUN
+155,Stob Choire Claurigh North Top,1121,
+156,Stob Choire Claurigh - Stob Coire na Ceannain,1123,TOP
+157,Stob Choire Claurigh - Stob a' Choire Leith,1105,TOP
+158,Stob Choire Claurigh - Stob Coire Gaibhre [Stob Coire na Gaibhre],958,TOP
+159,Stob Ban,977,MUN
+160,Stob Coire Easain,1115,MUN
+161,Stob a' Choire Mheadhoin,1105,MUN
+162,Sgurr Eilde Mor,1010,MUN
+163,Binnein Beag,943,MUN
+164,Binnein Mor,1130,MUN
+165,Binnein Mor South Top,1062,TOP
+166,Binnein Mor - Sgor Eilde Beag,955.7,TOP
+167,Na Gruagaichean,1054.3,MUN
+168,Na Gruagaichean NW Top,1038.8,TOP
+169,An Gearanach,981.5,MUN
+170,An Gearanach - An Garbhanach,974.9,TOP
+171,Stob Coire a' Chairn,981.3,MUN
+172,Am Bodach,1031.8,MUN
+173,Sgurr a' Mhaim - Sgurr an Iubhair [Sgor an Iubhair],999.7,TOP
+174,Sgurr a' Mhaim - Stob Choire a' Mhail,990,TOP
+175,Sgurr a' Mhaim,1099,MUN
+176,Stob Ban,999.7,MUN
+177,Mullach nan Coirean,939.3,MUN
+178,Mullach nan Coirean SE Top,917.5,TOP
+179,Mullach nan Coirean East Top,916.6,TOP
+180,Stob Coire Sgriodain,979,MUN
+181,Stob Coire Sgriodain South Top,958,TOP
+182,Chno Dearg,1046,MUN
+183,Chno Dearg - Meall Garbh (old GR),975,
+184,Chno Dearg - Meall Garbh,976,TOP
+185,Beinn na Lap,935,MUN
+186,Carn Dearg,941,MUN
+187,Sgor Gaibhre,955,MUN
+188,Sgor Gaibhre - Sgor Choinnich,929,TOP
+189,Beinn Eibhinn,1103.3,MUN
+190,Beinn Eibhinn - Meall Glas Choire,924,TOP
+191,Beinn Eibhinn - Mullach Coire nan Nead,922,TOP
+192,Aonach Beag,1115.8,MUN
+193,Geal-Charn,1132,MUN
+194,Geal-Charn - Sgor Iutharn,1028,TOP
+195,Carn Dearg,1034,MUN
+196,Carn Dearg - Diollaid a' Chairn,925,TOP
+197,Beinn a' Chlachair,1087,MUN
+198,Creag Pitridh,924,MUN
+199,Geal Charn,1049,MUN
+200,Geal Charn - Sron Garbh,1023,
+201,Ben Alder,1148,MUN
+202,Beinn Bheoil,1019,MUN
+203,Beinn Bheoil - Sron Coire na h-Iolaire,956,TOP
+204,Beinn Udlamain,1010.2,MUN
+205,Sgairneach Mhor (old GR),963,
+206,Sgairneach Mhor,991,MUN
+207,A' Mharconaich - Bruach nan Iomairean,969.8,
+208,A' Mharconaich,973.2,MUN
+209,Geal-charn,917.1,MUN
+210,Meall Chuaich,951,MUN
+211,Carn na Caim,940.8,MUN
+212,Carn na Caim - Mullach Coire nan Cisteachan [Carn na Caim South Top],914.6,TOP
+213,A' Bhuidheanach Bheag,936.1,MUN
+214,A' Bhuidheanach Bheag - Glas Mheall Mor,927.9,TOP
+215,A' Bhuidheanach Bheag - Meall a' Chaorainn,916,
+216,Beinn Dearg,1008.7,MUN
+217,Beinn Dearg - Beinn Gharbh,930.4,
+218,An Sgarsoch,1006.5,MUN
+219,An Sgarsoch - Druim Sgarsoch,954,
+220,Carn an Fhidhleir [Carn Ealar],994,MUN
+221,Carn a' Chlamain,963.5,MUN
+222,Carn a' Chlamain North Top,952,
+223,Carn nan Gabhar (Beinn a' Ghlo),1121.9,MUN
+224,Carn nan Gabhar (Beinn a' Ghlo) - Airgiod Bheinn,1061.7,TOP
+225,Braigh Coire Chruinn-bhalgain (Beinn a' Ghlo),1070,MUN
+226,Carn Liath (Beinn a' Ghlo),976,MUN
+227,Glas Tulaichean,1051,MUN
+228,Carn an Righ,1029,MUN
+229,Beinn Iutharn Mhor,1045,MUN
+230,Beinn Iutharn Mhor - Mam nan Carn,986,TOP
+231,Beinn Iutharn Mhor - Beinn Iutharn Bheag,953,TOP
+232,Carn Bhac,945.1,MUN
+233,Carn Bhac SW Top,918.1,TOP
+234,Carn Bhac - Carn a' Bhutha,905.9,
+235,An Socach,944,MUN
+236,An Socach East Top,938,TOP
+237,Carn a' Gheoidh,975,MUN
+238,Carn a' Gheoidh - Carn nan Sac,919.5,
+239,Carn a' Gheoidh - Carn Bhinnein,917,TOP
+240,The Cairnwell,933,MUN
+241,Carn Aosda,915.3,MUN
+242,Cac Carn Beag (Lochnagar),1155.7,MUN
+243,Cac Carn Beag (Lochnagar) - Cac Carn Mor,1151.3,
+244,Cac Carn Beag (Lochnagar) - Cuidhe Crom,1083.2,TOP
+245,Cac Carn Beag (Lochnagar) - Meikle Pap,980,TOP
+246,Cac Carn Beag (Lochnagar) - Meall Coire na Saobhaidhe,974,TOP
+247,Cac Carn Beag (Lochnagar) - Little Pap,956,TOP
+248,Carn a' Choire Bhoidheach,1109.9,MUN
+249,Carn a' Choire Bhoidheach - Creag a' Ghlas-uillt,1066.9,TOP
+250,Carn a' Choire Bhoidheach - Eagles Rock [Eagle's Rock],1049.2,TOP
+251,Carn a' Choire Bhoidheach - Carn an t-Sagairt Beag,1044.3,TOP
+252,Carn an t-Sagairt Mor,1047,MUN
+253,Glas Maol,1068,MUN
+254,Glas Maol - Little Glas Maol,973,TOP
+255,Glas Maol - Meall Odhar,922,TOP
+256,Creag Leacach,988.2,MUN
+257,Creag Leacach SW Top,943.7,TOP
+258,Cairn of Claise,1064,MUN
+259,Cairn of Claise - Druim Mor,961,TOP
+260,Carn an Tuirc,1019,MUN
+261,Tom Buidhe,957,MUN
+262,Tolmount,958,MUN
+263,Tolmount - Crow Craigies,920,TOP
+264,Cairn Bannoch,1012,MUN
+265,Cairn Bannoch - Fafernie,1000,TOP
+266,Cairn Bannoch - Creag Leachdach,957,
+267,Cairn Bannoch - Cairn of Gowal,991,TOP
+268,Cairn Bannoch - Cairn of Gowal South Top,983,
+269,Cairn Bannoch - Craig of Gowal,927,TOP
+270,Broad Cairn,998,MUN
+271,Broad Cairn - Creag an Dubh-loch,983,TOP
+272,Mayar,928,MUN
+273,Driesh,947,MUN
+274,Mount Keen,939,MUN
+275,Mullach Clach a' Bhlair,1019,MUN
+276,Mullach Clach a' Bhlair - Diollaid Coire Eindart,974,
+277,Mullach Clach a' Bhlair - Druim nam Bo,918,
+278,Sgor Gaoith,1118,MUN
+279,Sgor Gaoith - Sgoran Dubh Mor,1111,TOP
+280,Sgor Gaoith - Carn Ban Mor,1052,TOP
+281,Sgor Gaoith - Meall Dubhag,998,TOP
+282,Sgor Gaoith - Meall Buidhe,976,TOP
+283,Sgor Gaoith - Geal-charn,920,TOP
+284,Braeriach,1296,MUN
+285,Braeriach - Stob Coire an Lochain,1235,
+286,Braeriach - Carn na Criche,1265,TOP
+287,Braeriach - Sron na Lairige,1184,TOP
+288,Sgor an Lochain Uaine,1258,MUN
+289,Cairn Toul,1291,MUN
+290,Cairn Toul - Stob Coire an t-Saighdeir,1213,TOP
+291,The Devil's Point,1006.9,MUN
+292,Monadh Mor,1113,MUN
+293,Monadh Mor - Tom Dubh,918,TOP
+294,Monadh Mor - Leth-chreag,985,
+295,Beinn Bhrotain,1157,MUN
+296,Beinn Bhrotain - Carn Cloich-mhuilinn,942,TOP
+297,Carn a' Mhaim,1037,MUN
+298,Ben Macdui [Beinn Macduibh],1309,MUN
+299,Ben Macdui North Top,1295,
+300,Ben Macdui - Carn Etchachan,1120,TOP
+301,Ben Macdui - Stob Coire Sputan Dearg,1249,
+302,Ben Macdui - Sron Riach,1113,TOP
+303,Cairn Gorm,1244.8,MUN
+304,Cairn Gorm - Cairn Lochan,1216,TOP
+305,Cairn Gorm - Fiacaill Coire an t-Sneachda,1122,
+306,Cairn Gorm - Stob Coire an t-Sneachda,1176,TOP
+307,Cairn Gorm - Fiacaill a' Choire Chais,1141,
+308,Cairn Gorm - Cnap Coire na Spreidhe,1150,TOP
+309,Cairn Gorm - Sron a' Cha-no,1028,
+310,Cairn Gorm - Creag an Leth-choin [Lurcher's Crag],1053,TOP
+311,Cairn Gorm - Creag an Leth-choin North Top,1026,
+312,Cairn Gorm - Fiacaill na Leth-choin,1083,
+313,Bynack More,1090,MUN
+314,Bynack More - A' Choinneach,1017,TOP
+315,Bynack More - Bynack Beg,970,TOP
+316,Beinn Mheadhoin,1182.9,MUN
+317,Beinn Mheadhoin SW Top,1163,
+318,Beinn Mheadhoin - Stob Coire Etchachan,1082,TOP
+319,Beinn Mheadhoin - Stacan Dubha,1014,TOP
+320,Derry Cairngorm,1155,MUN
+321,Derry Cairngorm - Creagan a' Choire Etchachan,1108,TOP
+322,Derry Cairngorm - Sgurr an Lochan Uaine,983,TOP
+323,Derry Cairngorm - Little Cairngorm,1040,
+324,Beinn Bhreac,931,MUN
+325,Beinn Bhreac West Top,927,TOP
+326,Beinn a' Chaorainn,1083,MUN
+327,Beinn a' Chaorainn - Beinn a' Chaorainn Bheag,1017,TOP
+328,Leabaidh an Daimh Bhuidhe (Ben Avon),1172,MUN
+329,Leabaidh an Daimh Bhuidhe (Ben Avon) - Stob Dubh an Eas Bhig,1061,
+330,Leabaidh an Daimh Bhuidhe (Ben Avon) - Ben Avon SW Top,1137.6,
+331,Leabaidh an Daimh Bhuidhe (Ben Avon) - Stob Bac an Fhurain,1076,
+332,Leabaidh an Daimh Bhuidhe (Ben Avon) - Mullach Lochan nan Gabhar,1124,
+333,Leabaidh an Daimh Bhuidhe (Ben Avon) - Stuc Gharbh Mhor,1119.2,
+334,Leabaidh an Daimh Bhuidhe (Ben Avon) - Stuc Gharbh Mhor (old GR),1112,
+335,Leabaidh an Daimh Bhuidhe (Ben Avon) - West Meur Gorm Craig,1023.1,TOP
+336,Leabaidh an Daimh Bhuidhe (Ben Avon) - Big Brae,940,
+337,Leabaidh an Daimh Bhuidhe (Ben Avon) - East Meur Gorm Craig,935.3,TOP
+338,Leabaidh an Daimh Bhuidhe (Ben Avon) - Carn Eas,1089,TOP
+339,Leabaidh an Daimh Bhuidhe (Ben Avon) - Creag an Dail Mhor,972,TOP
+340,Beinn a' Bhuird North Top,1197,MUN
+341,Beinn a' Bhuird South Top (old GR),1177,
+342,Beinn a' Bhuird South Top,1179,TOP
+343,Beinn a' Bhuird - Cnap a' Chleirich,1174,TOP
+344,Beinn a' Bhuird - Stob an t-Sluichd,1107,TOP
+345,Beinn a' Bhuird - A' Chioch,1151,
+346,Geal Charn,926,MUN
+347,Carn Dearg,945.7,MUN
+348,Carn Dearg - Carn Ban,942.3,TOP
+349,Carn Dearg SE Top,923.7,TOP
+350,Carn Dearg - Sneachdach Slinnean,919,
+351,Carn Dearg - Carn Ballach (SW Top),919.8,TOP
+352,Carn Dearg - Carn Ballach (NE Top),919.3,
+353,A' Chailleach,929.3,MUN
+354,Carn Sgulain,920.3,MUN
+355,Creag Meagaidh,1128.1,MUN
+356,Creag Meagaidh East Top,1116.1,
+357,Creag Meagaidh - Puist Coire Ardair,1070.8,TOP
+358,Creag Meagaidh - Creag Mhor,1069.7,
+359,Creag Meagaidh - Meall Coire Choille-rais,1028,TOP
+360,Creag Meagaidh - Sron a' Choire,1001.8,TOP
+361,Creag Meagaidh - An Cearcallach,993.1,TOP
+362,Stob Poite Coire Ardair,1054,MUN
+363,Stob Poite Coire Ardair East Top,1050,
+364,Stob Poite Coire Ardair - Sron Coire a' Chriochairein,993,TOP
+365,Carn Liath,1006,MUN
+366,Carn Liath - Meall an-t-Snaim,970,TOP
+367,Carn Liath - A' Bhuidheanach,966,
+368,Carn Liath - Stob Coire Dubh,916,TOP
+369,Beinn a' Chaorainn,1049.1,MUN
+370,Beinn a' Chaorainn South Top,1048.5,TOP
+371,Beinn a' Chaorainn North Top,1042.9,TOP
+372,Beinn Teallach,914.6,MUN
+373,Gleouraich,1035,MUN
+374,Gleouraich - Creag Coire na Fiar Bhealaich [Craig Coire na Fiar Bhealaich],1006,TOP
+375,Sgurr a' Mhaoraich,1027,MUN
+376,Sgurr a' Mhaoraich - Sgurr a' Mhaoraich Beag,948,TOP
+377,Sgurr a' Mhaoraich - Am Bathaich,899,
+378,Spidean Mialach,996,MUN
+379,The Saddle,1011.5,MUN
+380,The Saddle - Trig Point,1011.1,
+381,The Saddle - Sgurr na Creige,926.9,
+382,The Saddle West Top,975.6,
+383,The Saddle - Sgurr na Forcan,964.6,TOP
+384,The Saddle East Top,959,
+385,The Saddle - Spidean Dhomhuill Bhric,940.4,TOP
+386,The Saddle - Sgurr Leac nan Each,918.9,TOP
+387,Sgurr na Sgine,946,MUN
+388,Sgurr na Sgine NW Top,942,TOP
+389,Sgurr na Sgine - Faochag,909,
+390,Creag a' Mhaim,946.2,MUN
+391,Druim Shionnach,985.2,MUN
+392,Druim Shionnach West Top,935.4,TOP
+393,Aonach air Chrith,1019.5,MUN
+394,Maol Chinn-dearg,980.3,MUN
+395,Sgurr an Doire Leathain,1010,MUN
+396,Sgurr an Lochain,1004,MUN
+397,Creag nan Damh,917.2,MUN
+398,Beinn Sgritheall,974,MUN
+399,Beinn Sgritheall NW Top,928,TOP
+400,Sgurr na Ciche,1040.2,MUN
+401,Garbh Chioch Mhor,1012.9,MUN
+402,Garbh Chioch Mhor - Garbh Chioch Bheag,968.3,TOP
+403,Sgurr nan Coireachan,953.8,MUN
+404,Sgurr Mor,1003,MUN
+405,Gairich,919,MUN
+406,Meall Buidhe,946,MUN
+407,Meall Buidhe SE Top,942,TOP
+408,Ladhar Bheinn,1020,MUN
+409,Ladhar Bheinn - Stob a' Choire Odhair,960,TOP
+410,Luinne Bheinn,939,MUN
+411,Luinne Bheinn East Top,936,TOP
+412,Sron a' Choire Ghairbh,937,MUN
+413,Meall na Teanga,916.8,MUN
+414,Gulvain [Gaor Bheinn],987,MUN
+415,Gulvain South Top,961,TOP
+416,Sgurr Thuilm,963,MUN
+417,Sgurr nan Coireachan,956,MUN
+418,Sgurr Fhuaran,1068.8,MUN
+419,Sgurr na Carnach,1002,MUN
+420,Sgurr Fhuaran - Sgurr nan Saighead,929,TOP
+421,Sgurr na Ciste Duibhe,1027,MUN
+422,Sgurr na Ciste Duibhe - Sgurr nan Spainteach,990,TOP
+423,Saileag,956,MUN
+424,Sgurr a' Bhealaich Dheirg,1036,MUN
+425,Aonach Meadhoin,1001,MUN
+426,Aonach Meadhoin - Sgurr an Fhuarail,987,TOP
+427,Ciste Dhubh,981.1,MUN
+428,Beinn Fhada,1031.9,MUN
+429,Beinn Fhada - Sgurr a' Dubh Doire,962,TOP
+430,Beinn Fhada - Meall an Fhuarain Mhoir,954.9,TOP
+431,A' Ghlas-bheinn,918,MUN
+432,Sgurr nan Ceathramhnan [Sgurr nan Ceathreamhnan],1151,MUN
+433,Sgurr nan Ceathramhnan West Top,1143,TOP
+434,Sgurr nan Ceathramhnan East Top,969,
+435,Sgurr nan Ceathramhnan - Stuc Bheag,1075,TOP
+436,Sgurr nan Ceathramhnan - Stuc Mor,1041,TOP
+437,Sgurr nan Ceathramhnan - Creag nan Clachan Geala,999.6,
+438,Sgurr nan Ceathramhnan - Stob Coire nan Dearcag,939.1,
+439,Sgurr nan Ceathramhnan - Stuc Fraoch Choire,918,TOP
+440,Sgurr nan Ceathramhnan - Stob Coire na Cloiche,912.5,
+441,Mullach na Dheiragain,982,MUN
+442,Mullach na Dheiragain - Mullach Sithidh,974,TOP
+443,Mullach na Dheiragain - Creag a' Choire Aird East Top,933,
+444,Mullach na Dheiragain - Carn na Con Dhu,967,TOP
+445,An Socach,919.7,MUN
+446,Mam Sodhail,1179.4,MUN
+447,Mam Sodhail - Ciste Dhubh,1109.5,
+448,Mam Sodhail - Stob Coire Coulavie,1068,
+449,Mam Sodhail - An Tudair,1073.4,TOP
+450,Mam Sodhail - Creag Coire nan Each,1055,TOP
+451,Mam Sodhail - Sgurr na Lapaich,1037.3,TOP
+452,Mam Sodhail - Mullach Cadha Rainich,995.6,TOP
+453,Carn Eighe,1182.8,MUN
+454,Carn Eighe - Stob a' Choire Dhomhain,1146.5,TOP
+455,Carn Eighe - Stob Coire Dhomhnuill,1139.1,TOP
+456,Carn Eighe - Sron Garbh,1131,TOP
+457,Carn Eighe - Stob Coire Lochan,916.9,TOP
+458,Beinn Fhionnlaidh,1004.8,MUN
+459,Tom a' Choinich,1112,MUN
+460,Tom a' Choinich - An Leth-chreag,1051,TOP
+461,Tom a' Choinich - Tom a' Choinich Beag,1032,TOP
+462,Toll Creagach,1054,MUN
+463,Toll Creagach West Top,951,TOP
+464,Mullach Fraoch-choire,1102,MUN
+465,Mullach Fraoch-choire NE Top,1047,
+466,A' Chraileag [A' Chralaig],1120,MUN
+467,A' Chraileag - Stob Coire na Craileig [Stob Coire na Cralaig],1008,TOP
+468,A' Chraileag - A' Chioch,946.6,TOP
+469,Sail Chaorainn,999.2,MUN
+470,Sail Chaorainn - Carn na Coire Mheadhoin,997.9,TOP
+471,Sail Chaorainn - Tigh Mor na Seilge,927.4,TOP
+472,Sail Chaorainn - Carn a' Mhadaidh-ruaidh,919.2,
+473,Sgurr nan Conbhairean,1109,MUN
+474,Sgurr nan Conbhairean - Drochaid an Tuill Easaich,998.5,TOP
+475,Sgurr nan Conbhairean - Creag a' Chaorainn,998,TOP
+476,Carn Ghluasaid,957,MUN
+477,Sgurr na Ruaidhe,993,MUN
+478,Carn nan Gobhar,992,MUN
+479,Sgurr a' Choire Ghlais,1083,MUN
+480,Sgurr Fhuar-thuill,1049,MUN
+481,Sgurr Fhuar-thuill - Creag Ghorm a' Bhealaich,1030,TOP
+482,Sgurr Fhuar-thuill - Sgurr na Fearstaig,1015,TOP
+483,Moruisg,928,MUN
+484,Sgurr nan Ceannaichean,913.43,
+485,Maoile Lunndaidh,1004.9,MUN
+486,Maoile Lunndaidh - Creag Toll a' Choin,1005.3,
+487,Maoile Lunndaidh - Carn nam Fiaclan,993,TOP
+488,Sgurr a' Chaorachain,1053,MUN
+489,Sgurr a' Chaorachain - Bidean an Eoin Deirg,1046.6,TOP
+490,Sgurr Choinnich,999.3,MUN
+491,Bidein a' Choire Sheasgaich,945,MUN
+492,Lurg Mhor,987,MUN
+493,Lurg Mhor - Meall Mor,974,TOP
+494,Carn nan Gobhar,993,MUN
+495,Carn nan Gobhar - Creag Dubh,947,TOP
+496,Sgurr na Lapaich,1151,MUN
+497,Sgurr na Lapaich - Rubha na Spreidhe,1057,
+498,Sgurr na Lapaich - Creag a' Chaorainn,969,
+499,Sgurr na Lapaich - Braigh a' Choire Bhig,1008,
+500,Sgurr na Lapaich - Sgurr nan Clachan Geala,1093,TOP
+501,An Riabhachan,1129,MUN
+502,An Riabhachan NE Top,1125,
+503,An Riabhachan SW Top,1086,TOP
+504,An Riabhachan West Top,1038,TOP
+505,An Socach,1069,MUN
+506,Sgurr Mhor (Beinn Alligin),986,MUN
+507,Tom na Gruagaich (Beinn Alligin),922,MUN
+508,Spidean a' Choire Leith (Liathach),1054.8,MUN
+509,Mullach an Rathain (Liathach),1023.8,MUN
+510,Spidean a' Choire Leith (Liathach) - Stob a' Choire Liath Mhor,983.5,TOP
+511,Mullach an Rathain (Liathach) - Meall Dearg [Northern Pinnacles],955,TOP
+512,Mullach an Rathain (Liathach) - Am Fasarinen,928.6,TOP
+513,Spidean a' Choire Leith (Liathach) - Stuc a' Choire Dhuibh Bhig,915.4,TOP
+514,Ruadh-stac Mor (Beinn Eighe),1010,MUN
+515,Spidean Coire nan Clach (Beinn Eighe),993,MUN
+516,Spidean Coire nan Clach (Beinn Eighe) - Sail Mhor,980,TOP
+517,Spidean Coire nan Clach (Beinn Eighe) - Coinneach Mhor (1974 position),954,
+518,Spidean Coire nan Clach (Beinn Eighe) - Coinneach Mhor,976,TOP
+519,Spidean Coire nan Clach (Beinn Eighe) - Sgurr Ban,970,TOP
+520,Spidean Coire nan Clach (Beinn Eighe) - Sgurr nan Fhir Duibhe,963,TOP
+521,Spidean Coire nan Clach (Beinn Eighe) - Creag Dhubh,910,
+522,Sgorr Ruadh,960.7,MUN
+523,Maol Chean-dearg,933,MUN
+524,Beinn Liath Mhor,926,MUN
+525,Slioch,981,MUN
+526,Slioch - Trig Point,980,
+527,Slioch - Sgurr an Tuill Bhain,934,TOP
+528,Ruadh Stac Mor,918.7,MUN
+529,A' Mhaighdean,967,MUN
+530,Beinn Tarsuinn,933.8,MUN
+531,Mullach Coire Mhic Fhearchair,1015.2,MUN
+532,Mullach Coire Mhic Fhearchair East Top,977.8,TOP
+533,Mullach Coire Mhic Fhearchair - Sgurr Dubh,915.4,TOP
+534,Sgurr Ban,989,MUN
+535,Beinn a' Chlaidheimh,913.96,
+536,Bidein a' Ghlas Thuill (An Teallach),1062.5,MUN
+537,Bidein a' Ghlas Thuill (An Teallach) - Glas Mheall Mor,979.5,TOP
+538,Bidein a' Ghlas Thuill (An Teallach) - Glas Mheall Liath,960.5,TOP
+539,Sgurr Fiona (An Teallach),1058.7,MUN
+540,Sgurr Fiona (An Teallach) - Sgurr Creag an Eich,1016.4,TOP
+541,Sgurr Fiona (An Teallach) - Lord Berkeley's Seat,1031.5,TOP
+542,Sgurr Fiona (An Teallach) - Corrag Bhuidhe,1047.2,TOP
+543,Sgurr Fiona (An Teallach) - Corrag Bhuidhe Buttress,946,
+544,Sgurr Fiona (An Teallach) - Stob Cadha Gobhlach,958.5,TOP
+545,Sgurr Fiona (An Teallach) - Sail Liath,952.4,TOP
+546,A' Chailleach,998.6,MUN
+547,A' Chailleach - Toman Coinnich [Toman Coinich],936.6,TOP
+548,Sgurr Breac,999.6,MUN
+549,Meall a' Chrasgaidh,934,MUN
+550,Sgurr nan Clach Geala,1093,MUN
+551,Sgurr nan Each,923,MUN
+552,Sgurr Mor,1108.9,MUN
+553,Sgurr Mor - Meall nam Peithirean,974.3,TOP
+554,Sgurr Mor - Carn na Criche,961.7,TOP
+555,Beinn Liath Mhor Fannaich,954,MUN
+556,Meall Gorm,949.7,MUN
+557,Meall Gorm SE Top,922.4,TOP
+558,An Coileachan,924,MUN
+559,Fionn Bheinn,933,MUN
+560,Am Faochagach,953,MUN
+561,Cona' Mheall,978,MUN
+562,Beinn Dearg,1084,MUN
+563,Meall nan Ceapraichean,977,MUN
+564,Meall nan Ceapraichean - Ceann Garbh (old GR),942,
+565,Meall nan Ceapraichean - Ceann Garbh,968,TOP
+566,Eididh nan Clach Geala,927,MUN
+567,Seana Bhraigh,926,MUN
+568,Glas Leathad Mor (Ben Wyvis),1046,MUN
+569,Glas Leathad Mor (Ben Wyvis) - An t-Socach,1006,
+570,Glas Leathad Mor (Ben Wyvis) - Tom a' Choinnich,954,TOP
+571,Glas Leathad Mor (Ben Wyvis) - An Cabar,946,TOP
+572,Glas Leathad Mor (Ben Wyvis) - Glas Leathad Beag West Top,910,
+573,Glas Leathad Mor (Ben Wyvis) - Glas Leathad Beag,928,TOP
+574,Glas Leathad Mor (Ben Wyvis) - Meall nan Bradan Leathan [Fiaclach],920,
+575,Ben Hope,927,MUN
+576,Ben Klibreck - Meall nan Con,962.1,MUN
+577,Ben More Assynt,998,MUN
+578,Ben More Assynt South Top,960,TOP
+579,Conival,987,MUN
+580,Sgurr nan Gillean,966.1,MUN
+581,Sgurr nan Gillean - Knight's Peak,914.24,
+582,Am Basteir,934,MUN
+583,Am Basteir - Bhasteir Tooth [Basteir Tooth],917.16,TOP
+584,Bruach na Frithe,958.8,MUN
+584,Bruach na Frithe - Sgurr a' Fionn Choire,936,TOP
+586,Sgurr a' Mhadaidh,918,MUN
+587,Sgurr a' Ghreadaidh,972.1,MUN
+588,Sgurr a' Ghreadaidh South Top,969.9,TOP
+589,Sgurr na Banachdich,965,MUN
+590,Sgurr na Banachdich Central Top,942,TOP
+591,Sgurr na Banachdich - Sgurr Thormaid,926,TOP
+592,Sgurr Dearg - Inaccessible Pinnacle,985.8,MUN
+593,Sgurr Dearg - Cairn,978,
+594,Sgurr Mhic Choinnich,948.1,MUN
+595,Sgurr Alasdair,992,MUN
+596,Sgurr Alasdair - Sgurr Thearlaich,977.1,TOP
+597,Sgurr Alasdair - Sgurr Sgumain,947.9,TOP
+598,Sgurr Dubh Mor,944,MUN
+599,Sgurr Dubh Mor - Sgurr Dubh an Da Bheinn,938,TOP
+600,Sgurr nan Eag,926.3,MUN
+601,Blabheinn [Bla Bheinn],929,MUN
+602,Blabheinn South Top,926.5,TOP
+603,Ben More,966,MUN
